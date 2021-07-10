@@ -9,7 +9,7 @@
 ![](https://raw.githubusercontent.com/william5647/william5647/main/thm.PNG)
 
 I'm a passionate learner who's always willing to learn and work across new technologies and domains 💡. </br>
-I'm currently into Cyber Security 🕸️ and Cloud Computing ☁️.
+I'm currently into Cyber Security 🕸️, Malware Analysis, and Cloud Computing ☁️.
 
 ### $ Whoami
 ```
@@ -20,12 +20,12 @@ I'm currently into Cyber Security 🕸️ and Cloud Computing ☁️.
     • University: "Asia Pacific University Kuala Lumpur"
     
   Skills
-    •	Cloud Technologies: Amazon Web Services, Microsoft Intune
-    •	Database: SQL Database
-    •	Tools: MSSGard, Git, IDA, Metasploit, FTK Imager, Autopsy, Nessus, VMWare, VirtualBox, Wireshark, Cisco Packet Tracer, Code-Ray
-    •	OS: Windows, Linux
-    •	Programming Language: Python, Intel x86 Assembly Language, PHP, Java, C 
-    •	Framework: Laravel
-    •	Cyber Security: SOC Analyst, Penetration Testing, OSINT, Reverse Engineering
-    •	Scripting: Batch, PowerShell
+    •	Cloud Technologies: "Amazon Web Services, Microsoft Intune"
+    •	Database: "SQL Database"
+    •	Tools: "MSSGard, Git, IDA, Metasploit, FTK Imager, Autopsy, Nessus, VMWare, VirtualBox, Wireshark, Cisco Packet Tracer, Code-Ray"
+    •	OS: "Windows, Linux"
+    •	Programming Language: "Python, Intel x86 Assembly Language, PHP, Java, C"
+    •	Framework: "Laravel"
+    •	Cyber Security: "SOC Analyst, Penetration Testing, OSINT, Reverse Engineering"
+    •	Scripting: "Batch, PowerShell"
 ```
