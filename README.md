@@ -1,14 +1,28 @@
-# Heyy Guys, I’m @william5647! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
-[![Linkedin: william](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamtirtadjaja/)](https://www.linkedin.com/in/williamtirtadjaja/)
-[![](https://img.shields.io/badge/web-william5647.github.io-blue)](https://william5647.github.io/)
+## Hey 👋, I'm [William!](https://william5647.github.io/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/williamtirtadjaja/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tirtadjajawilliam@gmail.com)](mailto:tirtadjajawilliam@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://william5647.github.io/)](https://william5647.github.io/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/williamtirtadjaja/)](https://instagram.com/williamtirtadjaja/)
 
-- 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Glad to see you here! &nbsp;
+I'm a passionate learner who's always willing to learn and work across new technologies and domains 💡. </br>
+I'm currently into Cyber Security 🕸️ and Cloud Computing ☁️.
 
-<!---
-william5647/william5647 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### $ Whoami
+```
+# William Tirtadjaja
+
+  Education
+    • Degree: "Bsc, Cyber Security"
+    • University: "Asia Pacific University Kuala Lumpur"
+    
+  Skills
+    •	Cloud Technologies: Amazon Web Services, Microsoft Intune
+    •	Database: SQL Database
+    •	Tools: MSSGard, Git, IDA, Metasploit, FTK Imager, Autopsy, Nessus, VMWare, VirtualBox, Wireshark, Cisco Packet Tracer, Code-Ray
+    •	OS: Windows, Linux
+    •	Programming Language: Python, Intel x86 Assembly Language, PHP, Java, C 
+    •	Framework: Laravel
+    •	Cyber Security: SOC Analyst, Penetration Testing, OSINT, Reverse Engineering
+    •	Scripting: Batch, PowerShell
+```
