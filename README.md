@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Heyy Guys, I’m @william5647!
+# Heyy Guys, I’m @william5647! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 [![Linkedin: william](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamtirtadjaja/)](https://www.linkedin.com/in/williamtirtadjaja/)
 [![](https://img.shields.io/badge/web-william5647.github.io-blue)](https://william5647.github.io/)
 
