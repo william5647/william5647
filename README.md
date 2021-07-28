@@ -22,9 +22,9 @@ I'm currently into Cyber Security 🕸️, Malware Analysis, and Cloud Computing
   Skills
     •	Cloud Technologies: "Amazon Web Services, Microsoft Intune"
     •	Database: "SQL Database"
-    •	Tools: "MSSGard, Git, IDA, Metasploit, FTK Imager, Autopsy, Nessus, VMWare, VirtualBox, Wireshark, Cisco Packet Tracer, Code-Ray"
+    •	Tools: "MSSGard, IDA, Metasploit, FTK Imager, Autopsy, Nessus, VMWare, VirtualBox, Wireshark, Cisco Packet Tracer, Code-Ray"
     •	OS: "Windows, Linux"
-    •	Programming Language: "Python, Intel x86 Assembly Language, PHP, Java, C"
+    •	Programming Language: "Python, Intel x86 Assembly Language, PHP, C"
     •	Framework: "Laravel"
     •	Cyber Security: "SOC Analyst, Penetration Testing, OSINT, Reverse Engineering"
     •	Scripting: "Batch, PowerShell"
