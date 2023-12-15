@@ -4,8 +4,6 @@
 
 ### Glad to see you here! &nbsp;
 
-![](https://raw.githubusercontent.com/william5647/william5647/main/thm.PNG)
-
 I'm a passionate working professional who's always willing to learn and work across new technologies and domains 💡. </br>
 I'm currently doing Penetration Testing (Web, API, Mobile, Infrastructure) 🕸️ and Vulnerability Assessments.
 
@@ -18,12 +16,12 @@ I'm currently doing Penetration Testing (Web, API, Mobile, Infrastructure) 🕸�
     • University: "Asia Pacific University Kuala Lumpur"
     
   Skills
-    •	Cloud Technologies: "Amazon Web Services, Microsoft Intune"
-    •	Database: "SQL Database"
-    •	Tools: "MSSGard, IDA, Metasploit, FTK Imager, Autopsy, Nessus, VMWare, VirtualBox, Wireshark, Cisco Packet Tracer, Code-Ray"
+    •	Cloud Technologies: "Amazon Web Services"
+    •	Tools: "Burp Suite, Frida, Objection, Nessus, Wireshark, Nmap, SQLMap, SSlyze, Nikto, Postman"
     •	OS: "Windows, Linux"
-    •	Programming Language: "Python, Intel x86 Assembly Language, PHP, C"
-    •	Framework: "Laravel"
-    •	Cyber Security: "SOC Analyst, Penetration Testing, OSINT, Reverse Engineering"
-    •	Scripting: "Batch, PowerShell"
+    •	Programming Language: "Python"
+    •	Cyber Security: "Penetration Testing and Vulnerability Assesment"
+
+  Interest:
+    • "GRC, Cryptography, Reverse Engineering, Blockchain, Cloud Computing"
 ```
