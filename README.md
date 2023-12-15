@@ -13,7 +13,7 @@ I'm currently doing Penetration Testing (Web, API, Mobile, Infrastructure) 🕸�
 
   Education
     • Degree: "Bsc, Cyber Security"
-    • University: "Asia Pacific University Kuala Lumpur"
+    • University: "Staffordshire University"
     
   Skills
     •	Cloud Technologies: "Amazon Web Services"
